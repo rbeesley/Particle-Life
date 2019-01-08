@@ -1,3 +1,6 @@
+# Particle-Life
+Particle-Life (https://github.com/HackerPoet/Particle-Life) recreated in Clojure
+
 ## Introduction
 
 A play-clj game in which ... well, that part is up to you.
